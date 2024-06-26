@@ -28,3 +28,17 @@ This means you get all the standard features of Lua,
 plus additional goodies to make your coding life easier.
 
 https://pluto-lang.org/docs/Introduction
+
+# Learning Stand API
+
+The Stand API is used for interacting with the Stand menu, for everything from creating new menu items
+to helper functions to make interacting with the game engine easier.
+
+Browse Stand API docs: https://std.gg/scripting
+
+# GTA Natives
+
+The internal game functions of GTA exposed for scripts to use. These are intended to be used for internal scripts,
+but they are available and very useful to interact with the game world.
+
+Browse Natives docs: https://nativedb.dotindustries.dev/

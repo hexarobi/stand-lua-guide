@@ -1,0 +1,5 @@
+menu.my_root():toggle_loop("My Toggle Loop", {"mytoggleloop"}, "Help for my toggle loop.", function()
+	util.draw_debug_text("My toggle loop is running every tick!")
+end, function()
+	util.toast("Toggle has been turned off!")
+end)

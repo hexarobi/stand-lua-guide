@@ -1,0 +1,10 @@
+menu.my_root():action("Make HTTP Request", {}, "", function()
+	local url = "http://www.example.com"
+	async_http.init(url, nil, function(body, headers, status_code)
+		util.toast(status_code.." response from "..url..": ".. body, TOAST_ALL)
+	end, function(reason)
+		util.toast("Error loading "..url..": "..reason, TOAST_ALL)
+	end)
+	util.toast("Fetching "..url, TOAST_ALL)
+	async_http.dispatch()
+end)

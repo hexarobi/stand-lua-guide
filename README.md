@@ -2,6 +2,10 @@
 
 - Read other scripts
 - Read documentation pins in #programming
+  - Stand API: https://std.gg/scripting
+  - Pluto Language (based on Lua): https://pluto.do/docs
+  - Lua Language: https://www.lua.org/manual/5.4/manual.html
+  - Natives: https://nativedb.dotindustries.dev/natives
 - Start small and take it one step at a time to build up
 
 # Learning to Program

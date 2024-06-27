@@ -5,6 +5,7 @@
 
 If you're totally new to programming,
 watch this video to help get you in the right head-space.
+
 [How to Learn to Code](https://www.youtube.com/watch?v=mvK0UzFNw1Q)
 
 tl;dr Don't get hung up on the details, just jump in and start having fun building something.
